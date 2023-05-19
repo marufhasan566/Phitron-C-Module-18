@@ -19,13 +19,6 @@ int main()
         // printf("%d\n", i);
         for (int j = 0; j < col; j++)
         {
-            // printf("%d\n", i);
-            // printf("%d\n", j);
-            // printf("a[%d][%d] ", i, j);
-
-            // Print all element of 2d array
-            // printf("%d ", a[i][j]);
-
             // print a specific "row or column" by giving valid value of i or j inside the "if"
 
             // for row matrix
